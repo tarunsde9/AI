@@ -1,0 +1,15 @@
+Age,MonthlyCharges,Tenure,Contract,Churn
+25,50,2,Monthly,Yes
+45,80,24,Yearly,No
+35,60,12,Monthly,No
+52,90,36,Yearly,No
+23,45,1,Monthly,Yes
+40,75,18,Yearly,No
+29,55,5,Monthly,Yes
+60,100,48,Yearly,No
+31,65,8,Monthly,Yes
+48,85,30,Yearly,No
+27,52,3,Monthly,Yes
+55,95,40,Yearly,No
+38,70,15,Monthly,No
+22,40,1,Monthly,Yes
