@@ -1,0 +1,6 @@
+CustomerID,Age,AnnualIncome,SpendingScore,Cluster,Anomaly
+22,55,99651,59,2,-1
+46,31,96734,99,0,-1
+52,64,64080,1,2,-1
+63,19,36976,3,0,-1
+93,62,15854,20,1,-1
